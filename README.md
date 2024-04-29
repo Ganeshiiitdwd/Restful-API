@@ -7,3 +7,7 @@ We've adhered to industry-standard practices throughout, employing JWT, Bcrypt f
 ### Data Modeling
 
 Explore our data modeling approach [here](https://app.eraser.io/workspace/04cKJJFlLoAq3P75tFVu).
+
+### API TESTING
+
+Explore postman [here](https://www.postman.com/security-architect-92707744/workspace/restful-api/documentation/30679487-2286ca2f-27d7-4e40-99f6-79ada817bdaf).
